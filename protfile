@@ -1,0 +1,117 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Upendra Surisetty - Portfolio</title>
+    <style>
+        body {
+            font-family: 'Arial', sans-serif;
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+            background-color: #f4f4f4;
+        }
+
+        header {
+            background-color: #333;
+            color: #fff;
+            padding: 1em;
+            text-align: center;
+        }
+
+        section {
+            max-width: 800px;
+            margin: 20px auto;
+            padding: 20px;
+            background-color: #fff;
+            border-radius: 8px;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+        }
+
+        h1, h2 {
+            color: #333;
+        }
+
+        a {
+            color: #007bff;
+            text-decoration: none;
+        }
+
+        ul {
+            list-style: none;
+            padding: 0;
+        }
+
+        li {
+            margin-bottom: 5px;
+        }
+
+        .contact-info {
+            margin-top: 20px;
+        }
+
+        footer {
+            background-color: #333;
+            color: #fff;
+            text-align: center;
+            padding: 1em;
+            position: fixed;
+            bottom: 0;
+            width: 100%;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <h1>Upendra Surisetty</h1>
+    </header>
+
+    <section>
+        <h2>About Me</h2>
+        <p>
+            I am a fresher with a B.Tech from Audisanakara Institute of Technology. I am a team player with good leadership skills and patience.
+        </p>
+
+        <h2>Personal Details</h2>
+        <ul>
+            <li>Father Name: S.Pullaiah Guptha</li>
+            <li>Mother Name: S. Sunitha</li>
+            <li>Nationality: Indian</li>
+            <li>Address: 6-250/19-E, Revenue Colony, Mydukur, Kadapa Dist., Pin Code: 516172</li>
+            <li>DOB: 30/08/2002</li>
+            <li>Language Known: Telugu, Hindi, English</li>
+        </ul>
+
+        <h2>Educational Background</h2>
+        <ul>
+            <li>B.Tech from Audisanakara Institute of Technology with CGPA of 8.56 up to 5 semesters</li>
+            <li>Intermediate from Sri Chaitanya junior college with CGPA of 8.61 at 2020</li>
+            <li>SSC from A.V.R.Schools with GPA of 8.8 at 2018</li>
+        </ul>
+
+        <h2>Technical Skills</h2>
+        <ul>
+            <li>Programming Languages: Python (Basics of DSA, OOPS), C (Basics of DSA)</li>
+            <li>Database: MySQL</li>
+            <li>Other technical Skills: HTML, Power BI, MS Office</li>
+        </ul>
+
+        <h2>Internship</h2>
+        <p>I have attended a one-month online internship program on the basics of Python full stack.</p>
+    </section>
+
+    <section class="contact-info">
+        <h2>Contact Information</h2>
+        <ul>
+            <li>Email: <a href="mailto:upendrasurisetty36280@gmail.com">upendrasurisetty36280@gmail.com</a></li>
+            <li>Mobile: <a href="tel:+917075377593">+91 7075377593</a></li>
+            <li>LinkedIn: <a href="https://www.linkedin.com/in/upendra-surisetty-447171222">Upendra Surisetty</a></li>
+        </ul>
+    </section>
+
+    <footer>
+        &copy; 2023 Upendra Surisetty - Portfolio
+    </footer>
+</body>
+</html>
